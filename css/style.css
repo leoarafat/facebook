@@ -1,0 +1,23 @@
+.ap{
+    text-decoration: none;
+    color: lightgrey;
+}
+.backg{
+    background-color: #2C3333 ;
+    padding: 10px;
+    border-radius: 10px;
+    width: 160px;
+    margin: 10px;
+}
+.fa-brands{
+font-size: 1.5rem;
+}
+.fa-solid{
+font-size: 1.5rem;
+}
+.bg-btnn{
+    background-color: #2C3333 ; 
+    padding: 10px;
+    border-radius: 8px;
+    margin-left: -5px;
+}
